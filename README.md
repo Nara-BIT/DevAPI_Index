@@ -28,6 +28,7 @@ cd backend
 cp .env.example .env   # update MONGO_URI and JWT_SECRET
 npm install
 npm run seed            # seed categories + sample APIs
+npm run create-admin    # interactively create/promote an admin account
 npm run dev             # start server on port 5000
 ```
 
