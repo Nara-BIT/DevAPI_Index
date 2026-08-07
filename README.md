@@ -2,6 +2,12 @@
 
 A curated directory where users can discover, test, and bookmark public APIs by category.
 
+## Demo
+
+| Landing Page | Browsing APIs | Testing an API |
+| :---: | :---: | :---: |
+| ![Landing Page](img/landingPage.png) | ![Browsing Page](img/browsingPage.png) | ![View Demo API](img/viewDemoAPI.png) |
+
 ## Tech Stack
 
 - **Frontend:** React (Vite) + React Router + Tailwind CSS
